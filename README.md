@@ -2,7 +2,7 @@
 ```bash
 Olasoji Favour
 ```
-# Slaxk Username
+# Slack Username
 ```bash
   Justinndidit
 ```
@@ -14,7 +14,7 @@ Olasoji Favour
   to a cloud provide
 ```
 
-# Ser IP/Domain
+# Server IP/Domain
 ```bash
-
+  https://pray-there-enters-essex.trycloudflare.com/
 ```
