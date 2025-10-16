@@ -14,7 +14,7 @@ Olasoji Favour
   to a cloud provide
 ```
 
-# Server IP/Domain
+# Server IP
 ```bash
-  https://pray-there-enters-essex.trycloudflare.com/
+  165.227.23.174
 ```
